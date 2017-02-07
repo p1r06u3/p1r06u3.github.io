@@ -171,9 +171,6 @@ em {
 .fa-empty:before {
   content: "\e011";
 }
-.fa-weibo:before {
-  content: "\e012";
-}
 .fa-weixin:before {
   content: "\e013";
 }
